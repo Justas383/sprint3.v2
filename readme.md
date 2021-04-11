@@ -15,11 +15,11 @@ Simple security checks to access admin page, with username and password(login in
 
 
 ## Project launch instructions
-Clone this repository or download it as a ZIP package.
-Clone/extract it to your AMPPS (.../AMPPS/www/), XAMPP or other web server platform directory.
-Make sure that the downloaded/cloned repository folder is named 'sprint3.v2'.
-Import 'tweet.sql' database into your local MySQL server.
-Open the app via your preferred web browser (http://localhost/sprint3.v2/).
+-   Clone this repository or download it as a ZIP package.
+-   Clone/extract it to your AMPPS (.../AMPPS/www/), XAMPP or other web server platform directory.
+-   Make sure that the downloaded/cloned repository folder is named 'sprint3.v2'.
+-   Import 'tweet.sql' database into your local MySQL server.
+-   Open the app via your preferred web browser (http://localhost/sprint3.v2/).
 
 ## Author
 
