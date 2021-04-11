@@ -1,0 +1,21 @@
+{
+    "name": "jgude/sprint3.v2",
+    "description": "Sprint3 project v2",
+    "authors": [
+        {
+            "name": "Justas383",
+            "email": "74533002+Justas383@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Model\\": "./src/Models/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
+}

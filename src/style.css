@@ -1,0 +1,48 @@
+body{
+    background-color: antiquewhite;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h1{
+   align-self: center;
+}
+.nav{
+display: flex;
+justify-content: space-around;
+align-items: center;
+border: solid 2px black;
+}
+.tweet{
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+border: solid 2px black;
+}
+.loginform{
+    border:solid 2px black;
+} 
+table{
+    border: solid 2px black;
+}
+.tableelement{
+    border-bottom: black solid 1px;
+}
+.adminNav{
+display: flex;
+align-items: center;
+border: solid 2px black;
+}
+.back{
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+.error{
+display: flex;
+justify-content: center;
+}
